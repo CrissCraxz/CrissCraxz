@@ -13,9 +13,7 @@
 			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
 		</a>
 	-->
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
-	</a>
+
 
 </p>
 
@@ -106,23 +104,7 @@
 
 </div>
 
-<h1 align="left">🔥 Some Statistics</h1>
-<div align="center">
-<table>
-  <tr>
-    <td valign="top"><img src="https://github.com/khot-aditya/Khot-Aditya/blob/main/devcard.svg" alt="Dev Card" width="100%" height="auto"/></td>
-    <td valign="top">
-     <img src="https://github-readme-stats.vercel.app/api?username=khot-aditya&show_icons=true&theme=swift" width="100%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=khot-aditya&theme=swift&card_width=400" width="100%"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=khot-aditya&row=2&column=4&theme=oldie&no-frame=true&margin-w=15&margin-h=15" width="100%"/>
-    </td>
-  </tr>
-</table>
-</div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
 
 
