@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Christian Obando <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola, yo soy Christian Obando  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniero++de+Software+@bld.ai;Junior+en+Ciencia+de+Datos;Machine+Learning+&+IA;"></a>
 </p>
@@ -24,22 +24,22 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Informatics & Electronic](https://www.espoch.edu.ec/fie-s/) at [Escuela Superior Politecnica de Chimborazo](https://www.espoch.edu.ec/).
-- :technologist: I love using Software as a solution for every `Problem`.
-- :yum:  I like to work with software systems.
-- :student: I’m currently learning `Software Engineering` and `Software Security`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [LINKEDIN](https://www.linkedin.com/in/christian-michael-obando-garces/).
-- :heart: I love `Linux` and `subsystems`.
+- :school: Soy `Ingeniero` en la [Facultad de Informática y Electrónica](https://www.espoch.edu.ec/fie-s/) en la [Escuela Superior Politécnica de Chimborazo](https://www.espoch.edu.ec/).
+- :technologist: Me encanta aprender acerca de nuevas tecnologías y adentrarme en la búsqueda de una solución para los `Problemas`, mediante el software.
+- :yum: Me gusta investigar y manejar nuevos sistemas operativos.
+- :student: Estudié la carrera de `Ingeniería de Software` y me encuentro en la preparación como `Data Science` entre sus otras `Ramas`.
+- :nerd_face: Siempre estoy `buscando la mejor solución`.
+- :thinking: Estoy abierto a nuevas `Oportunidades Laborales`, mi perfil dentro de la plataforma de [LINKEDIN:](https://www.linkedin.com/in/christian-michael-obando-garces/).
+- :heart: Tengo predilección por `Linux` y `Machine Learning`.
 <!---
 - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 -->
 
 <br>
 
-<h1 align="left">🧠 Skills Showcase</h1>
+<h1 align="left">🧠 Habilidades</h1>
 
-### ☕️Languages
+### ☕️Lenguajes
 
 ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -62,13 +62,13 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![gitlab](https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### 🐬Database
+### 🐬Base de Datos
 
 ![sqlite](https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-### 📘Libraries
+### 📘Librerias
 
 ![jss](https://img.shields.io/badge/jss-F7DF1E.svg?style=for-the-badge&logo=jss&logoColor=black)
 ![mui](https://img.shields.io/badge/mui-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)
@@ -77,7 +77,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![tailwindcss](https://img.shields.io/badge/tailwind_css-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### 🐙Others
+### 🐙Otros
 
 ![npm](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![openai](https://img.shields.io/badge/open_ai_api-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
